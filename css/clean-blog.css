@@ -4,6 +4,7 @@ body {
   color: #404040;
 }
 p {
+  text-align: justify;
   line-height: 1.5;
   margin: 30px 0;
 }
@@ -394,4 +395,32 @@ img::-moz-selection {
 }
 body {
   webkit-tap-highlight-color: #0085a1;
+}
+
+img.speaker-left {
+  width: 150px;
+  /*height: 200px;*/
+  background: transparent;
+  float: left;
+  align: left;
+  margin-right: 50px;
+}
+
+img.speaker-right {
+  width: 150px;
+  /*height: 200px;*/
+  background: transparent;
+  float: right;
+  align: right;
+  margin-left: 50px;
+}
+
+ul.bib {
+  font-size: 18px;
+  list-style-type: decimal;
+}
+
+img.sponsor {
+  align: middle;
+  width: 70%;
 }
