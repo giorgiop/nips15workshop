@@ -16,7 +16,7 @@ In particular
 - Privacy aspects of data protection
 - Innovative methods and perspective on collection, aggregation, obfuscation and release of data
 - Social and legal implications and open problems
-- Application demos (paper + code for running it as live demo)
+- Application demos (paper + code to run as live demo)
 
 ### Submission instructions
 
@@ -27,6 +27,7 @@ A subset of the accepted papers and application demos will be selected for oral 
 Also, there will be a **special issue on the [Journal of Privacy and Confidentiality](http://repository.cmu.edu/jpc/)**, depending on quality and number of submissions,
  and subject to the organizers' judgement.
 
+*More detailed instruction for submitting demo will be posted here soon.*
 
 ### Important dates
 
