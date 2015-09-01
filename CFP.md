@@ -32,11 +32,9 @@ All accepted papers and application demos will have a short oral presentation
 and poster session. Also, there will be a **special issue on the [Journal of Privacy and Confidentiality](http://repository.cmu.edu/jpc/)**, depending on quality and number of submissions,
  and subject to the organizers' judgement.
 
-*More detailed instruction for submitting demo will be posted here soon.*
-
 ### Important dates
 
 - Submission **deadline for papers and demos**: October 20 2015
-- Notification of acceptance: October 28 2015
+- Notification of acceptance: November 3 2015
 - Notification of acceptance on the Journal of Privacy and Confidentiality: TBA
 - Workshop day: December 12 2015
