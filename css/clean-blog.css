@@ -2,6 +2,7 @@ body {
   font-family: 'Lora', 'Times New Roman', serif;
   font-size: 20px;
   color: #404040;
+  background-color: #e0e0e0;
 }
 p {
   text-align: justify;
@@ -372,7 +373,7 @@ form .row:first-child .floating-label-form-group {
 .pager .disabled > a:focus,
 .pager .disabled > span {
   color: #808080;
-  background-color: #404040;
+  background-color: #000000;
   cursor: not-allowed;
 }
 ::-moz-selection {
@@ -403,16 +404,20 @@ img.speaker-left {
   background: transparent;
   float: left;
   align: left;
-  margin-right: 50px;
+  margin-top: 10px;
+  margin-right: 20px;
+  margin-bottom: 10px;
 }
 
 img.speaker-right {
-  width: 150px;
+  width: 170px;
   /*height: 200px;*/
   background: transparent;
   float: right;
   align: right;
-  margin-left: 50px;
+  margin-top: 10px;
+  margin-left: 20px;
+  margin-bottom: 10px;
 }
 
 ul.bib {

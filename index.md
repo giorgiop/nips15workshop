@@ -41,7 +41,7 @@ In contrast, how can we publicly release data containing personal information to
 
 Despite their diversity, solutions to those problems can be surprisingly alike, as they all play with the same elements: variables without a clear one-to-one mapping, and the search for/the protection against models and statistics sufficient to recover the relevant variables.
 
-Aggregated statistics and obfuscated data are abundant, as they are released much more frequently than plain individual-level information; the latter are often too sensitive because of privacy constraints or business value, or too expensive to collect. Learning in those scenarios has been conceptualized, for example, by multiple instance learning [1,2,3], learning from label proportions [4,5,6,7,8,9], and learning from noisy labels [10,11], and it is common in a variety of application fields, such as computer vision [13,14], sentiment analysis [15] and bioinformatics [1], whenever labels for single image patches, sentences or proteins are unknown, while higher-level supervision is possible.
+Aggregate statistics and obfuscated data are abundant, as they are released much more frequently than plain individual-level information; the latter are often too sensitive because of privacy constraints or business value, or too expensive to collect. Learning in those scenarios has been conceptualized, for example, by multiple instance learning [1,2,3], learning from label proportions [4,5,6,7,8,9], and learning from noisy labels [10,11], and it is common in a variety of application fields, such as computer vision [13,14], sentiment analysis [15] and bioinformatics [1], whenever labels for single image patches, sentences or proteins are unknown, while higher-level supervision is possible.
 
 This problem is not limited to computer science, though. In fact, as natural, social and medical disciplines have studied the problem of inference from aggregates for a long time, including the so-called ecological inference in political science [16,17,18], econometrics [19] and epidemiology [20], and the modifiable areal unit problem in spatial statistics [21].
 
@@ -63,11 +63,11 @@ Read the [CFP]({{site.baseurl}}/CFP/).
 <li>
 F.X. Yu, D. Liu, S. Kumar, T. Jebara, S.F. Chang, \propto-SVM for learning with label proportions, ICML, 2013.
 <li>
-F. Xu, K. Choromanski, S. Kumar, T. Jebara, S.-F. Chang, On learning from label proportions, Technical report on arXiv, 2014.
+F.X. Yu, K. Choromanski, S. Kumar, T. Jebara, S.-F. Chang, On learning from label proportions, Technical report on arXiv, 2014.
 <li>
-G. Patrini, R. Nock, P. Rivera, T.S. Caetano, (Almost) no label no cry, NIPS, 2014
+G. Patrini, R. Nock, P. Rivera, T.S. Caetano, (Almost) no label no cry, NIPS, 2014.
 <li>
-S. Wager, A. Blocker, N Cardin, Weakly supervised clustering: learning fine-grained signals from coarse side information, Submitted.
+S. Wager, A. Blocker, N Cardin, Weakly supervised clustering: learning fine-grained signals from coarse side information, Annals of Applied Statistics, 2015 (to appear).
 <li>
 N. Natarajan, I.S. Dhillon, P. Ravikumar, A. Tewari, Learning with noisy labels, NIPS, 2013.
 <li>
@@ -77,13 +77,13 @@ A. K. Menon, B. van Rooyen, C. S. Ong, R. C. Williamson, Learning from Corrupted
 <li>
 B. Babenko, M.H. Yang, S. Belongie, Visual tracking with online multiple instance learning. CVPR, 2009.
 <li>
-Yu X. Felix, Liangliang Cao, Michele Merler, Noel Codella, Tao Chen, John R. Smith, Shih-Fu Chang, Modeling attributes from category-attribute proportions, ACM, 2014.
+K.-T. Lai; F.X. Yu; M.-S. Chen; S.-F. Chang. Video event detection by inferring temporal instance labels, CVPR, 2014.
 <li>
 D. Kotzias, D. Misha, N. de Freitas, P. Smyth, From group to individual labels using deep features, KDD, 2015.
 <li>
 L. Anselin, W. K. Tam Cho, Spatial effects and ecological inference, Political analysis, 2002.
 <li>
-G. King, A solution to the ecological inference problem: Reconstructing individual behaviour from aggregated data, Princeton University Press, 2013.
+G. King, A solution to the ecological inference problem: Reconstructing individual behavior from aggregate data, Princeton University Press, 2013.
 <li>
 S. Flaxman, Y.-X. Wang, A. Smola, Who supported Obama in 2012? Ecological inference through distribution regression, KDD, 2015.
 <li>

@@ -15,6 +15,7 @@ title: "Organizers"
 - [Arik Friedman](http://nrg.nicta.com.au/people/current/arik-friedman/) (Atlassian)
 - [Seth Flaxman](http://sethrf.com) (CMU)
 - [Hye-Chung Kum](http://sph.tamhsc.edu/hpm/faculty/kum.html) (Texas A&M)
+- Krzysztof Choromanski (Google)
 - [Sanjiv Kumar](http://www.sanjivk.com) (Google)
 - [Yu-Feng Li](http://lamda.nju.edu.cn/liyf/) (Nanjing University)
 - [Cheng Soon Ong](http://www.ong-home.my) (NICTA, ANU)

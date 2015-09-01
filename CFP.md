@@ -3,28 +3,33 @@ layout: page
 title: "CFP & Dates"
 ---
 
-### Call for partecipation
+### Call for participation
 
 We invite participation in the workshop on "Learning and privacy with incomplete data
 and weak supervision" as a part of the NIPS 2015 conference. We welcome and encourage
 multidisciplinary submissions on the topic of learning individual traits from
-aggregate and noisy(-fied) data, and the protection against attacks of this sort.
+aggregate and noisi(fied) data, and the protection against attacks of this sort.
 In particular
 
-- Novel algorithms and theoretical analysis on "weakly-supervised" learning
-- Field-specific applications in computer, biomedical and social sciences.
-- Privacy aspects of data protection
-- Innovative methods and perspective on collection, aggregation, obfuscation and release of data
-- Social and legal implications and open problems
-- Application demos (paper + code to run as live demo)
+- novel algorithms and theoretical analysis on "weakly-supervised" learning, *e.g.*
+multiple instance learning, learning from label proportions, noisy labels, ecological inference
+- field-specific applications in computer, biomedical and social sciences
+- innovative methods and perspective on collection, aggregation and obfuscation
+- privacy aspects of methods for data sharing and release
+- application demos of the above (to run live at the workshop)
+- social and legal implications and open problems
 
 ### Submission instructions
 
 Submissions must be 4-8 pages long, and adhere to the [NIPS format](https://nips.cc/Conferences/2015/PaperInformation/StyleFiles).
 Papers submission is here [TBA]. Please leave author information visible.
 
-A subset of the accepted papers and application demos will be selected for oral presentation.
-Also, there will be a **special issue on the [Journal of Privacy and Confidentiality](http://repository.cmu.edu/jpc/)**, depending on quality and number of submissions,
+With regard to the demos applications, we encourage the use of publicly accessible
+datasets and/or code in the interest of reproducibility; this will be valued positively
+for acceptance.
+
+All accepted papers and application demos will have a short oral presentation
+and poster session. Also, there will be a **special issue on the [Journal of Privacy and Confidentiality](http://repository.cmu.edu/jpc/)**, depending on quality and number of submissions,
  and subject to the organizers' judgement.
 
 *More detailed instruction for submitting demo will be posted here soon.*

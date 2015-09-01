@@ -7,7 +7,7 @@ title: "Speakers"
 
 [Nando de Freitas](http://www.cs.ubc.ca/~nando/)
 <img src="http://www.cs.ubc.ca/~nando/photos/nandoParis2.JPG" class="speaker-left">
-is an adjunct professor at UBC Computer Science and a full-time professor at Oxford. His goal as a researcher is to develop new ideas, algorithms and mathematical models to extend the frontiers of science and technology so as to improve the quality of life of humans and their environment. His is also a search for knowledge and a desire to understand how brains work and intelligence in general.
+is a computer science professor at Oxford University and a senior staff research scientist at [Google DeepMind](http://deepmind.com). He is also a fellow of the Canadian Institute For Advanced Research (CIFAR) in the Neural Computation and Adaptive Perception Program. He received his PhD from [Trinity College](http://www.trin.cam.ac.uk), Cambridge University in 2000 on Bayesian methods for neural networks. From 1999 to 2001, He was an artificial intelligence postdoctoral fellow at UC Berkeley. 
 
 
 [Stephen Hardy](https://www.linkedin.com/pub/stephen-hardy/1/43/4ba)
