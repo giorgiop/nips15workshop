@@ -261,7 +261,7 @@ hr.small {
   border-bottom-left-radius: 5px;
 }
 footer {
-  padding: 50px 0 65px;
+  padding: 0 0 65px;
 }
 footer .list-inline {
   margin: 0;
@@ -415,9 +415,9 @@ img.speaker-right {
   background: transparent;
   float: right;
   align: right;
-  margin-top: 10px;
+  margin-top: 5px;
   margin-left: 20px;
-  margin-bottom: 10px;
+  margin-bottom: 5px;
 }
 
 ul.bib {
