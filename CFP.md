@@ -14,7 +14,7 @@ In particular
 - novel algorithms and theoretical analysis on "weakly-supervised" learning, *e.g.*
 multiple instance learning, learning from label proportions, noisy labels, ecological inference
 - field-specific applications in computer, biomedical and social sciences
-- innovative methods and perspective on collection, aggregation and obfuscation
+- innovative methods and perspectives on data collection, aggregation and obfuscation
 - privacy aspects of methods for data sharing and release
 - application demos of the above (to run live at the workshop)
 - social and legal implications and open problems
@@ -34,7 +34,7 @@ and a poster session. Also, selected papers will be part of a **special issue on
 
 ### Important dates
 
-- Submission **deadline for papers and demos**: October 20 2015
-- Notification of acceptance: November 3 2015
+- Submission **deadline for papers and demos**: October 10 2015
+- Notification of acceptance: October 27 2015
 - Notification of acceptance on the Journal of Privacy and Confidentiality: TBA
 - Workshop day: December 12 2015

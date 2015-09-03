@@ -9,4 +9,4 @@ for kindly providing resources for the workshop.
 
 <br>
 
-<img src="{{site.baseurl}}/img/google.png" class="sponsor">
+<img src="{{site.baseurl}}/img/google.jpg" class="sponsor">
