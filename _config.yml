@@ -11,3 +11,10 @@ highlighter: pygments
 permalink: pretty
 paginate: 5
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+analytics :
+  provider : google
+  google :
+      tracking_id : 'UA-67225517-1'
+  getclicky :
+  site_id :

@@ -4,28 +4,31 @@ layout: default
 
 <!-- Page Header -->
 <header class="intro-header" style="background-image: url('{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}')">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-                <div class="site-heading">
-                    <!-- <h3>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</h3> -->
-                    <h2>{{ site.title }}</h2>
-                    <hr class="small">
-                    <span class="subheading">Montreal, Canada on December 12 @ NIPS'15</span>
-                    <span>(*) with a special issue on the Journal of Privacy and Confidentiality<span>
-                </div>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <div class="site-heading">
+          <!-- <h3>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</h3> -->
+          <h2>{{ site.title }}</h2>
+          <hr class="small">
+          <span class="subheading">Montreal, Canada on December 12 @ NIPS'15 </span>
+          <br><br>
+          <div class="sub-heading">Speakers: <b>Wendy Cho, Kamalika Chaudhuri, Nando de Freitas, Stephen Hardy</b><br>
+            - with a special issue on the Journal of Privacy and Confidentiality -<div>
             </div>
+          </div>
         </div>
+      </div>
     </div>
-</header>
+  </header>
 
-<!-- Main Content -->
-<div class="container">
-	<div class="row">
-		<div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-			{{ content }}
-		</div>
-	</div>
-</div>
+  <!-- Main Content -->
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        {{ content }}
+      </div>
+    </div>
+  </div>
 
-<hr>
+  <hr>
