@@ -19,7 +19,7 @@ h4,
 h5,
 h6 {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-weight: 800;
+  font-weight: 900;
 }
 a {
   color: #404040;
@@ -137,8 +137,9 @@ hr.small {
   -moz-background-size: cover;
   background-size: cover;
   -o-background-size: cover;
-  margin-bottom: 50px;
+  margin-bottom: 20px;
 }
+
 .intro-header .site-heading,
 .intro-header .post-heading,
 .intro-header .page-heading {
@@ -167,8 +168,7 @@ hr.small {
   line-height: 1.1;
   display: block;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-weight: 300;
-  margin: 10px 0 0;
+  font-weight: 500;
 }
 @media only screen and (min-width: 768px) {
   .intro-header .site-heading h1,
@@ -187,7 +187,7 @@ hr.small {
 .intro-header .post-heading .subheading {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-size: 24px;
-  margin: 10px 0 30px;
+  /*margin: 10px 0 30px;*/
   font-weight: 600;
 }
 .intro-header .post-heading .meta {
@@ -435,4 +435,9 @@ div.sub-heading {
   color: white;
   background: rgb(170, 187, 97); /* Fallback */
   background: rgba(170, 187, 97, 0.5);
+}
+
+div.photo-copyright {
+  font-size: small;
+  text-align: left;
 }

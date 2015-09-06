@@ -23,14 +23,13 @@ multiple instance learning, learning from label proportions, noisy labels, ecolo
 
 Submissions must be 4-8 pages long (+1 for references), and adhere to the [NIPS format](https://nips.cc/Conferences/2015/PaperInformation/StyleFiles).
 Papers submission is here [TBA]. Please leave authors information visible.
-
-With regard to the demos applications, we encourage the use of publicly accessible
-datasets and/or code in the interest of reproducibility; this will be valued positively
+With regard to the demos, we encourage the use of publicly accessible
+datasets and code in the interest of reproducibility; this will be valued positively
 for acceptance.
 
-All accepted papers and application demos will have a short oral presentation
-and a poster session. Also, selected papers will be part of a **special issue on the [Journal of Privacy and Confidentiality](http://repository.cmu.edu/jpc/)**, depending on quality and number of submissions,
- and subject to the organizers' judgement.
+A subset of the accepted papers will be presented orally; all accepted papers will
+be part of a poster/demo session. Also, depending on quality and number of submissions, and subject to the organizers' judgement, a selection of the work presented at the workshop will be part of
+a **special issue on the [Journal of Privacy and Confidentiality](http://repository.cmu.edu/jpc/)**,
 
 ### Important dates
 

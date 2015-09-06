@@ -45,7 +45,7 @@ Aggregate statistics and obfuscated data are abundant, as they are released much
 
 This problem is not limited to computer science, though. In fact, as natural, social and medical disciplines have studied the problem of inference from aggregates for a long time, including the so-called ecological inference in political science [16,17,18], econometrics [19] and epidemiology [20], and the modifiable areal unit problem in spatial statistics [21].
 
-But as those approaches are shown to be effective in practice, to the point that the available statistics reveal sensitive attributes with high accuracy, the question is turned around into a search for privacy guarantees. Traditional statistics has studied the problem of confidential data release [22]. Research in k-anonymity, l-diversity [23, 24, 25, 26] and, more recently, differential privacy [27, 28, 29, 30] has proposed procedures to mask data in a way that one can trade-off protection and usefulness for statistical analysis.
+But as those approaches are shown to be effective in practice, to the point that the available statistics reveal sensitive attributes with high accuracy, the question is turned around into a search for privacy guarantees. Traditional statistics has studied the problem of confidential data release [22]. Research in k-anonymity, l-diversity [23, 24, 25, 26] and, more recently, differential privacy [27, 28, 29, 30, 31] has proposed procedures to mask data in a way that one can trade-off protection and usefulness for statistical analysis.
 
 Read the [CFP]({{site.baseurl}}/CFP/).
 
@@ -103,6 +103,8 @@ A. Friedman, R. Wolff, A. Schuster, Providing k-anonymity in data mining, The VL
 K. Choromanski, T. Jebara, K. Tang, Adaptive anonymity via b-matching, NIPS, 2013.
 <li>
 C. Dwork, F. McSherry, K. Nissim, A. Smith, Calibrating noise to sensitivity in private data analysis, Theory of Cryptography, 2006.
+<li>
+B. Barak, K. Chaudhuri, C. Dwork, S. Kale, F. Mcsherry, K. Talwar, Privacy, Accuracy, and Consistency Too: A Holistic Solution to Contingency Table Release, PODS, 2007.
 <li>
 M. Hardt, K. Ligett, F. McSherry, A simple and practical algorithm for differentially private data release, NIPS, 2012.
 <li>
