@@ -22,7 +22,7 @@ multiple instance learning, learning from label proportions, noisy labels, ecolo
 ### Submission instructions
 
 Submissions must be 4-8 pages long (+1 for references), and adhere to the [NIPS format](https://nips.cc/Conferences/2015/PaperInformation/StyleFiles).
-Papers submission is here [TBA]. Please leave authors information visible.
+Papers submission is [here](https://easychair.org/conferences/?conf=lpiw2015). Please leave authors information visible.
 With regard to the demos, we encourage the use of publicly accessible
 datasets and code in the interest of reproducibility; this will be valued positively
 for acceptance.
