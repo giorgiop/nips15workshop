@@ -31,6 +31,8 @@ A subset of the accepted papers will be presented orally; all accepted papers wi
 be part of a poster/demo session. Also, depending on quality and number of submissions, and subject to the organizers' judgement, a selection of the work presented at the workshop will be part of
 a **special issue on the [Journal of Privacy and Confidentiality](http://repository.cmu.edu/jpc/)**,
 
+**NEW: The organizers will nominate the authors of the top quality submitted work for Best Paper Award, sponsored by [Google]({{site.baseurl}}/sponsors/).**
+
 ### Important dates
 
 - Submission **deadline for papers and demos**: October 10 2015
