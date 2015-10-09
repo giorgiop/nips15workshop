@@ -35,7 +35,7 @@ a **special issue on the [Journal of Privacy and Confidentiality](http://reposit
 
 ### Important dates
 
-- Submission **deadline for papers and demos**: October 10 2015
+- Submission **deadline for papers and demos**: October <del>10</del> 17 2015 (**new date**)
 - Notification of acceptance: October 27 2015
 - Notification of acceptance on the Journal of Privacy and Confidentiality: TBA
 - Workshop day: December 12 2015
