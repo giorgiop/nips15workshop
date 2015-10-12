@@ -33,9 +33,11 @@ a **special issue on the [Journal of Privacy and Confidentiality](http://reposit
 
 **NEW: The organizers will nominate the authors of the top quality submitted work for Best Paper Award, sponsored by [Google]({{site.baseurl}}/sponsors/).**
 
+**NEW: We DO accept abstract submissions of work recently published or currently under review.**
+
 ### Important dates
 
-- Submission **deadline for papers and demos**: October <del>10</del> 17 2015 (**new date**)
-- Notification of acceptance: October 27 2015
+- Submission **deadline for papers and demos**: October <del>10</del> 17 2015 (**extended**)
+- Notification of acceptance: October <del>27</del> 30 2015 (**extended**)
 - Notification of acceptance on the Journal of Privacy and Confidentiality: TBA
 - Workshop day: December 12 2015

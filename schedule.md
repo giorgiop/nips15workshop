@@ -4,16 +4,15 @@ title: "Schedule"
 ---
 
 ### Schedule
-TBA
 
-<!-- - 09.00-09.15                    Welcome
-- 09.15-10.00                    Speaker 1
-- 09.45-10.15                    Coffee Break
-- 10.15-11.00                    Speaker 2
-- 11.00-11.45                    Demo Session
-- 11.45-12.30                    Poster Session
-- 12.30-15.00                    Lunch Break
-- 15.00-15.45                    Speaker 3
-- 15.45-16.30                    Speaker 4
-- 16.30-17.00                    Coffee Break
-- 17.00-18.00                    Panel Discussion -->
+<!-- - 09.00-09.10                    Welcome & Open Remarks
+- 09.10-10.00                    Invited Speaker, Kamalika Chaudhuri
+- 10.00-10.30                    Coffee Break
+- 10.30-11.20                    Invited Speaker, Nando de Freitas
+- 11.20-12.30                    Papers Session
+- **Lunch break**
+- 14.30-15.20                    Invited Speaker, Wendy Cho
+- 15.20-16.00                    Papers Session
+- 16.00-16.30                    Coffee Break
+- 16.30-17.20                    Invited Speaker, <del>Stephen Hardy</del> Maximilian Ott
+- 17.20-18.00                    Panel Discussion -->
