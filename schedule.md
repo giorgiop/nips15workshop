@@ -14,7 +14,7 @@ title: "Schedule"
  - Learning with differential privacy: stability, learnability and the sufficiency and necessity of ERM principle
  - Private posterior distributions from variational approximations
 
-**Lunch break**
+**Lunch break provided to the attendees**
 <br>
 
 `14.30-15.20`&nbsp;                    **Invited Speaker**: Wendy Cho <br>
