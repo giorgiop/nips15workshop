@@ -4,7 +4,7 @@ title: "Organizers"
 ---
 
 ### Organizers
-- [Giorgio Patrini](http://giorgiopatrini.org) (NICTA, ANU) [[contact organizer](mailto:giorgio.patrini@anu.edu.au)]
+- [Giorgio Patrini](http://giorgiopatrini.org) (ANU, NICTA) [[contact organizer](mailto:giorgio.patrini@anu.edu.au)]
 - [Tony Jebara](http://www.cs.columbia.edu/~jebara/) (Columbia University)
 - [Dimitrios Kotzias](http://dkotzias.com) (UC Irvine)
 - [Richard Nock](https://scholar.google.com.au/citations?user=0J2s3YQAAAAJ&hl=fr&oi=ao) (NICTA, ANU)
