@@ -20,7 +20,6 @@ in learning theory, such as confidence-rated prediction, online learning, and ac
 <img src="http://www.cs.ubc.ca/~nando/photos/nandoParis2.JPG" class="speaker-left">
 is a Computer Science Professor at Oxford University and a senior staff research scientist at [Google DeepMind](http://deepmind.com). He is also a fellow of the Canadian Institute For Advanced Research (CIFAR) in the Neural Computation and Adaptive Perception Program. He received his PhD from [Trinity College](http://www.trin.cam.ac.uk), Cambridge University in 2000 on Bayesian methods for neural networks. From 1999 to 2001, He was an artificial intelligence postdoctoral fellow at UC Berkeley.
 
-<!-- 
-[Stephen Hardy](https://www.linkedin.com/pub/stephen-hardy/1/43/4ba)
-<img src="https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/3/000/0b4/276/3bc151d.jpg" class="speaker-right">
-is an experienced data scientist, developer, manager and executive. He runs the "Big Data Knowledge Discovery" project for NICTA, an A$12m project looking at applying recent machine learning techniques to discovery in the natural sciences, funded in part from the [Science and Industry Endowment Fund](www.sief.org). Driving the creation of new data analytics programs and capabilities in NICTA, including research, platform engineering, business engagement and startups. -->
+[Max Ott](http://nrg.nicta.com.au/people/current/max-ott/)
+<img src="http://tridentcom.org/2011/img/max.JPG" class="speaker-right">
+has been working his entire career on turning bleeding edge research ideas into useful and commercially viable products and services. He recently returned to NICTA/Data61 from a company he founded previously which is using embedded ML to dramatically improve user experience around mobile video. He is now focusing on productizing confidential computing solutions to bring a healthy balance between companies' need to better understand their customers and an individual right for privacy.
