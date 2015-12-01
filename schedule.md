@@ -5,10 +5,10 @@ title: "Schedule"
 
 ### Schedule
 `09.00-09.10`&nbsp;                  **Welcome & Open Remarks** <br>
-`09.10-10.00`&nbsp;                    **Invited Speaker**: Nando de Freitas <br>
+`09.10-10.00`&nbsp;                    **Invited Speaker**: Kamalika Chaudhuri <br>
 `10.00-10.30`&nbsp;                    **Posters session & Coffee Break** <br>
-`10.30-11.20`&nbsp;                    **Invited Speaker**: Kamalika Chaudhuri <br>
-`11.20-12.20`&nbsp;                    **Papers Session: privacy** <br>
+`10.30-11.10`&nbsp;                    **Invited Speaker**: Nando de Freitas <br>
+`11.10-12.10`&nbsp;                    **Papers Session: privacy** <br>
 
  - $(\varepsilon, \delta)$-differential privacy of Gibbs posteriors <br>
    **Kentaro Minami, The University of Tokyo**
